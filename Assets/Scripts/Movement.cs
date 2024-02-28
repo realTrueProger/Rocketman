@@ -18,7 +18,6 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("Test commit");
         ProcessUp();
         ProcessRotation();
     }
